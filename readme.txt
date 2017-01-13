@@ -10,3 +10,4 @@ branch dev.
 branch dev2.
 >>>>>>> dev2
 try remote push by dev.
+learn git tags.
